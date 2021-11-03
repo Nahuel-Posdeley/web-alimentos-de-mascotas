@@ -550,13 +550,14 @@ section{
   .creditos{
     text-align: center;
     color:#fff;
-    font-size: 2rem;
+    font-size: 1.4rem;
     padding:2rem 1rem;
     margin-top: 2.5rem;
   }
 
   .creditos span{
     color: #e67e22;
+    font-size: 2rem;
   }
 
 
